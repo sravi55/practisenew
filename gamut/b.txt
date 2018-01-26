@@ -1,0 +1,1 @@
+git is a version control system . it is a disrtibuted version control system where having remote and local server
